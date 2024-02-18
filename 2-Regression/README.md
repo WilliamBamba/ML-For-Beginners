@@ -1,7 +1,7 @@
 # Regression models for machine learning
 ## Regional topic: Regression models for pumpkin prices in North America 🎃
 
-In North America, pumpkins are often carved into scary faces for Halloween. Let's discover more about these fascinating vegetables!
+In north America, pumpkins are often carved into scary faces for Halloween. Let's discover more about these fascinating vegetables!
 
 ![jack-o-lanterns](./images/jack-o-lanterns.jpg)
 > Photo by <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> on <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
